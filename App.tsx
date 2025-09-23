@@ -1,9 +1,11 @@
-import { Groups } from "./src/screens/Groups";
+import { Teams } from "@screens/Teams";
+
+
 
 
 export default function App() {
   return (
-    <Groups />
+    <Teams/>
   );
 }
 

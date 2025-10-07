@@ -15,4 +15,7 @@ flex: 1;
 background-color: '#fff';
 align-items: center;
 justify-content: center;
+color: ${({theme}) => theme.COLORS.GRAY_100}
 `;
+
+
